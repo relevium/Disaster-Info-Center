@@ -3,7 +3,9 @@
 Thunderstorms may seem benign, but they can create devastating weather events such as hail and lightning. It’s important that you know how to stay safe and keep your family members or employees safe during a storm. This includes staying away from corded electronic devices, water and concrete during a storm as well as knowing where to take shelter if you’re outside when a storm hits. By following the advice in this article, you can help protect yourself, others and your property during a thunderstorm.
  
 ## Before a Thunderstorm
-Know the warning signs. Along with checking the weather channel and subscribing to updates for mobile weather apps, you can get a head’s up about a pending thunderstorm by watching for changes in the weather. Look for changes such as:
+### Know the warning signs
+
+Along with checking the weather channel and subscribing to updates for mobile weather apps, you can get a head’s up about a pending thunderstorm by watching for changes in the weather. Look for changes such as:
  
 * Large, puffy cumulus clouds
 * Darkening sky and clouds
@@ -32,14 +34,20 @@ Get to shelter. Finding shelter during a thunderstorm is crucial. It is always b
 * In a Field. Get to the lowest area you can. Stay away from single trees that are not clustered together or other tall structures.
 * In the Water. Get to the land immediately and take the best shelter from there.
 * In a Car. Raise the roof if your car is a convertible. Stay in the car unless you can get to better shelter such as a house or building. Do not touch any metal in the car as this can conduct electricity and cause electrocution.
-* Stay safe while driving in a hail storm. Stay in your vehicle if you’re caught in a hail storm. Only get out if you can safely get to another shelter, or if you are already under safer shelter. Safely pull over and stop if the hailstorm becomes so intense that it is damaging your car and you are near no other shelter. If possible, position your car so that the front windshield is facing the direction the hail is coming from. The front windshield of your car is more resilient than the side windows. It will be able to withstand more damage. Also, consider ducking down in your car and covering yourself with your arms or a blanket if the hailstorm is damaging your windows.
+
+
+### Stay safe while driving in a hail storm.
+Stay in your vehicle if you’re caught in a hail storm. Only get out if you can safely get to another shelter, or if you are already under safer shelter. Safely pull over and stop if the hailstorm becomes so intense that it is damaging your car and you are near no other shelter. If possible, position your car so that the front windshield is facing the direction the hail is coming from. The front windshield of your car is more resilient than the side windows. It will be able to withstand more damage. Also, consider ducking down in your car and covering yourself with your arms or a blanket if the hailstorm is damaging your windows.
  
-Stay away from hazards. The electrical wiring and appliances in your house or business can be dangerous during a thunderstorm. Do not use corded appliances or phones. Wireless phones are okay to use, however. Lightning can travel through concrete so avoiding standing on it or leaning against concrete walls. Also, be sure to avoid going near plumbing fixtures and using running water in your house or business as this too conducts electricity.
+### Stay away from hazards
+The electrical wiring and appliances in your house or business can be dangerous during a thunderstorm. Do not use corded appliances or phones. Wireless phones are okay to use, however. Lightning can travel through concrete so avoiding standing on it or leaning against concrete walls. Also, be sure to avoid going near plumbing fixtures and using running water in your house or business as this too conducts electricity.
  
 ## After a Thunderstorm
-Wait for the storm to clear. Check with the weather channel to make sure that the storm has cleared in your area. Don’t assume that the storm has passed because you can no longer hear thunder. Storms move in bunches and you may be experiencing a minor break in the pattern.
+### Wait for the storm to clear
+Check with the weather channel to make sure that the storm has cleared in your area. Don’t assume that the storm has passed because you can no longer hear thunder. Storms move in bunches and you may be experiencing a minor break in the pattern.
  
-Stay safe. You may be dealing with downed power lines, damaged property, flooded roads and power outages after a thunderstorm. Here a few tips to help you stay safe after the storm has passed:
+### Stay safe
+You may be dealing with downed power lines, damaged property, flooded roads and power outages after a thunderstorm. Here a few tips to help you stay safe after the storm has passed:
  
 * Never drive on roads with flooded water. The road may have washed away under the water.
 * Keep your eyes open for any damage to power lines and stay away from them.

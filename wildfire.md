@@ -1,5 +1,7 @@
 # Wildfire
 
+Wildfires are some of the most destructive forces of nature. There isn’t much that can be done to deter a wildfire’s path. Fortunately, there are ways to help mitigate property damage and keep your employees and loved ones safe. By following the information in this article, you can help increase your chances of prevailing through a wildfire.
+
 ## Take Steps to Lower Risk of Damage
  
 You can’t fight back a wildfire that is encroaching on your home or business. However, you can take steps to protect it and evacuate when necessary. Learn how you can help protect your home or business from a wildfire.  Keep you and your family safe and know how and when to evacuate.
@@ -51,5 +53,3 @@ Remain calm while evacuating. If you’re driving, roll up your windows and clos
 Return only when it is safe. Do not go back to your property until officials declare it safe to do so. Watch out for ash pits and hot spots. Even after a fire is extinguished, small fires can flare up without warning. Check your house and surrounding property for hot spots and extinguish them immediately. Also, be on the lookout for ash pits. These are holes filled with hot ashes left by burned trees. Mark ash pits to help prevent others from falling into them and injuring themselves.
  
 Document the damage. Take photos and video and make a written list documenting your damaged property. Contact your insurance company immediately to report the damage.
- 
-Wildfires are some of the most destructive forces of nature. There isn’t much that can be done to deter a wildfire’s path. Fortunately, there are ways to help mitigate property damage and keep your employees and loved ones safe. By following the information in this article, you can help increase your chances of prevailing through a wildfire.
